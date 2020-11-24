@@ -1,0 +1,37 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.rushikesh9.hackon"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "com.rushikesh9.hackon"
+    },
+    "cordova-plugin-camera": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "com.rushikesh9.hackon"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.rushikesh9.hackon"
+    },
+    "cordova-plugin-cleartext": {
+      "PACKAGE_NAME": "com.rushikesh9.hackon"
+    },
+    "cordova-plugin-android-permissions": {
+      "PACKAGE_NAME": "com.rushikesh99.hackon"
+    },
+    "cordova-plugin-permission": {
+      "PACKAGE_NAME": "com.rushikesh99.hackon"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.rushikesh99.hackon"
+    }
+  },
+  "dependent_plugins": {}
+}
